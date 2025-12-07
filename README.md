@@ -175,6 +175,9 @@ The job performs:
 
 ## 📈 Grafana Dashboards
 
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/60a5838d-be84-4c91-a92a-6a2873e3c1a0" />
+
+
 Access Grafana:
 
 👉 http://localhost:3000
